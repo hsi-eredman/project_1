@@ -65,7 +65,7 @@ pip install pandas matplotlib numpy scipy
 
 ## Data Sources
 
-- Wastewater data sourced from ???--------------------------------**.
+- Wastewater data sourced from (https://www.kaggle.com/datasets/mpeteuil/us-covid-19-wastewater?select=README.md).
 - COVID-19 case data obtained from state health departments and relevant health organizations.
 
 ## Analysis
@@ -91,7 +91,7 @@ The analysis produces several visualizations, including:
 
 ## License
 
-
+Data provided by Biobot Analytics.
 
 
 
