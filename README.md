@@ -67,6 +67,8 @@ pip install pandas matplotlib numpy scipy
 
 - Wastewater data sourced from (https://www.kaggle.com/datasets/mpeteuil/us-covid-19-wastewater?select=README.md).
 - COVID-19 case data obtained from state health departments and relevant health organizations.
+-Daily Case count sourced from (https://www.worldometers.info/coronavirus/country/us/#graph-cases-daily)
+
 
 ## Analysis
 
