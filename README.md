@@ -63,6 +63,8 @@ pip install pandas matplotlib numpy scipy
 
 4. **View the generated visualizations** that illustrate trends and correlations.
 
+5. **Presentation** A copy of the presentation PowerPoint can be found in the images folder.
+
 ## Data Sources
 
 - Wastewater data sourced from (https://www.kaggle.com/datasets/mpeteuil/us-covid-19-wastewater?select=README.md).
